@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Kushagra Yadav 👋<br><br>## 🚀 About Me<br><br>I am a B.Tech Computer Science student specializing in Artificial Intelligence with a strong passion for Machine Learning, Data Science, and Software Development. I enjoy building real-world AI-powered solutions that solve practical problems and enhance user experiences.<br><br>My goal is to become a skilled AI/ML Engineer and Data Scientist by continuously learning, experimenting with new technologies, and developing impactful projects.<br><br>## 💡 What I'm Currently Working On<br><br>* AI-Based Disease Prediction System<br>* Driver Drowsiness Detection using Computer Vision<br>* Hand Gesture Recognition using Machine Learning<br>* Data Analytics and Business Intelligence Projects<br>* Healthcare Data Analysis and Visualization<br><br>## 🛠️ Technical Skills<br><br>### Programming Languages<br><br>* Python<br>* SQL<br>* Java<br>* C/C++<br><br>### Artificial Intelligence & Machine Learning<br><br>* Machine Learning<br>* Deep Learning<br>* Computer Vision<br>* Natural Language Processing<br>* Predictive Analytics<br><br>### Data Science & Analytics<br><br>* Data Cleaning & Preprocessing<br>* Exploratory Data Analysis (EDA)<br>* Data Visualization<br>* Statistical Analysis<br>* Feature Engineering<br><br>### Frameworks & Tools<br><br>* Flask<br>* OpenCV<br>* Scikit-learn<br>* Pandas<br>* NumPy<br>* Matplotlib<br>* Power BI<br>* Git & GitHub<br><br>## 📂 Featured Projects<br><br>### 🏥 Disease Prediction System<br><br>Developed an AI-powered healthcare application capable of predicting diseases based on patient symptoms using machine learning models and an interactive web interface.<br><br>### 🚗 Driver Drowsiness Detection<br><br>Built a real-time computer vision system that monitors driver alertness and generates warnings when signs of drowsiness are detected.<br><br>### ✋ Hand Gesture Recognition<br><br>Created a machine learning-based gesture recognition system capable of identifying and classifying hand movements in real time.<br><br>### 📊 Sales Analytics Dashboard<br><br>Designed an interactive Power BI dashboard to analyze sales trends, business performance, KPIs, and customer insights.<br><br>## 🌱 Currently Learning<br><br>* Advanced Machine Learning<br>* Deep Learning Architectures<br>* MLOps<br>* Cloud Computing for AI<br>* Generative AI & LLM Applications<br><br>## 🎯 Career Objective<br><br>I aspire to build intelligent systems that create meaningful impact in healthcare, automation, and business analytics while contributing to innovative AI solutions.<br><br>## 📫 Connect With Me<br><br>Feel free to explore my repositories, collaborate on projects, and connect with me as I continue my journey in AI, Machine Learning, and Data Science.<br><br>⭐ If you find my projects useful, consider giving them a star!<br>
 
-<!--
-**kushagrayadav06-cell/kushagrayadav06-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kushagra Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushagrayadav06@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kushagrayadav06-cell&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kushagrayadav06-cell&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kushagrayadav06-cell&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=kushagrayadav06-cell&icon=0&color=0)](https://visitcount.itsvg.in)
+
